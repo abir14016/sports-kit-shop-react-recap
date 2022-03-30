@@ -1,0 +1,98 @@
+[
+  {
+    "id": "623e048f0d5c4331f3be3250",
+    "picture": "./images/kits/football.png",
+    "price": 3224,
+    "name": "Soccer Ball",
+    "manufacturer": "England",
+    "ratings": 5
+  },
+  {
+    "id": "623e048f570a5363515fbbf8",
+    "picture": "./images/kits/red-cricket-ball.png",
+    "price": 3706,
+    "name": "Test Cricket Ball",
+    "manufacturer": "Australia",
+    "ratings": 5
+  },
+  {
+    "id": "623e048f216a5f785f7f821e",
+    "picture": "./images/kits/white-cricket-ball.png",
+    "price": 968,
+    "name": "ODI Cricket Ball",
+    "manufacturer": "Australia",
+    "ratings": 4
+  },
+  {
+    "id": "623e048f88d0b92c182355cc",
+    "picture": "./images/kits/pink-cricket-ball.png",
+    "price": 938,
+    "name": "Pink Cricket Ball",
+    "manufacturer": "Australia",
+    "ratings": 3
+  },
+  {
+    "id": "623e048f947789b9ab5b3524",
+    "picture": "./images/kits/hockey-ball.png",
+    "price": 4516,
+    "name": "Hockey Ball",
+    "manufacturer": "New Zealand",
+    "ratings": 4
+  },
+  {
+    "id": "623e048fb55bd0c254ea72fc",
+    "picture": "./images/kits/baseball.png",
+    "price": 1289,
+    "name": "Base Ball",
+    "manufacturer": "Kanada",
+    "ratings": 3
+  },
+  {
+    "id": "623e048fa645b1a491d4a3ed",
+    "picture": "./images/kits/badminton-bat.png",
+    "price": 2846,
+    "name": "Badminton Bat",
+    "manufacturer": "China",
+    "ratings": 4
+  },
+  {
+    "id": "623e048fe36e00e2caed46cb",
+    "picture": "./images/kits/batminton-cork.png",
+    "price": 1898,
+    "name": "Badminton Cork",
+    "manufacturer": "China",
+    "ratings": 5
+  },
+  {
+    "id": "623e048fc1f3ee7adb98b85d",
+    "picture": "./images/kits/cricket-bat.png",
+    "price": 2018,
+    "name": "Cricket Bat",
+    "manufacturer": "Pakistan",
+    "ratings": 5
+  },
+  {
+    "id": "623e048fc5cc56e3832fc18a",
+    "picture": "./images/kits/cricket-stamps.png",
+    "price": 758,
+    "name": "Cricket Stamps",
+    "manufacturer": "India",
+    "ratings": 5
+  },
+  {
+    "id": "623e048fca9582ccdc58b07f",
+    "picture": "./images/kits/golf-bat.png",
+    "price": 4969,
+    "name": "Golf Bat",
+    "manufacturer": "Kanada",
+    "ratings": 5
+  },
+  {
+    "id": "623e048f381b5461030ff6ce",
+    "picture": "./images/kits/hockey-stick.png",
+    "price": 2306,
+    "name": "Hockey Stick",
+    "manufacturer": "South Africa",
+    "ratings": 2
+  }
+]

@@ -1,0 +1,52 @@
+.cart h3,
+h4 {
+  text-align: center;
+}
+.btn-container {
+  text-align: center;
+}
+.btn {
+  height: 40px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+.small-text {
+  /* text-align: left;
+  margin-left: 30px; */
+  margin-bottom: 0px;
+}
+.choose-btn {
+  background-color: orange;
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.choose-btn-disabled {
+  background-color: rgb(218, 175, 95);
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.clear-btn {
+  background-color: red;
+  width: 40%;
+  display: block;
+  margin: 0 auto;
+}
+.choose-btn:hover,
+.clear-btn:hover {
+  background-color: yellow;
+}
+
+.single-cart-choose {
+  display: flex;
+  background-color: lightgrey;
+  padding: 15px 10px;
+  margin: 15px;
+  border-radius: 15px;
+  align-items: center;
+  justify-content: space-around;
+}

@@ -1,0 +1,27 @@
+.single-cart {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: lightgrey;
+  padding: 15px 10px;
+  margin: 15px;
+  border-radius: 15px;
+}
+.single-image {
+  height: 60px;
+  width: 60px;
+}
+.single-cart-info {
+  line-height: 10px;
+  text-align: center;
+}
+.cross-btn {
+  color: red;
+  font-size: larger;
+  font-weight: bold;
+  border: none;
+  background-color: lightgray;
+}
+.cross-btn:hover {
+  transform: scale(1.3);
+}
